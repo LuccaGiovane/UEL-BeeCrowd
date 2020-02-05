@@ -1,0 +1,17 @@
+num = int(input())
+for i in range(num):
+    nome = input()
+    mult = float(input())
+    a,b,c,d,e,f,g = map(float,input().split())
+    lista =[]
+    lista.append(a)
+    lista.append(b)
+    lista.append(c)
+    lista.append(d)
+    lista.append(e)
+    lista.append(f)
+    lista.append(g)
+    lista.sort()
+    del(lista[0])
+    del(lista[5])
+    print(nome,"{:.2f}".format((sum(lista))*mult))
