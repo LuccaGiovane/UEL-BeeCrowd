@@ -1,0 +1,7 @@
+a = str(input())
+b = str(input())
+c = str(input())
+print("%s%s%s"%(a,b,c))
+print("%s%s%s"%(b,c,a))
+print("%s%s%s"%(c,a,b))
+print("%s%s%s"%(a[0:10],b[0:10],c[0:10]))
