@@ -1,0 +1,7 @@
+a = input()
+x,y,z = a.split(".")
+l,k = z.split("-")
+print(x)
+print(y)
+print(l)
+print(k)
