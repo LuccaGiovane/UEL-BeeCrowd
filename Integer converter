@@ -1,4 +1,4 @@
-//simple calculator that transforms an integer to Binary, Octal or Hexadecimal
+#simple calculator that transforms an integer to Binary, Octal or Hexadecimal
 
 flag = True
 print("========== Wellcome to Integer converter ==========\nWrite 'quit' anytime to exit.")
