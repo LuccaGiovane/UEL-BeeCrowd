@@ -9,3 +9,27 @@ add_executable(jogoSimples
 
 add_executable(jogoSimplesComString
         "Estudos C++/jogoSimplesComString.cpp")
+
+add_executable(BEE1000
+        "Resolucoes C++/BEE 1000.cpp")
+
+add_executable(BEE1061
+        "Resolucoes C++/BEE 1061.cpp")
+
+add_executable(BEE1179
+        "Resolucoes C++/BEE 1179.cpp")
+
+add_executable(BEE1181
+        "Resolucoes C++/BEE 1181.cpp")
+
+add_executable(BEE1837
+        "Resolucoes C++/BEE 1837.cpp")
+
+add_executable(BEE2709
+        "Resolucoes C++/BEE 2709.cpp")
+
+add_executable(BEE2963
+        "Resolucoes C++/BEE 2963.cpp")
+
+add_executable(BEE2633
+        "Resolucoes C++/BEE 2633.cpp")
