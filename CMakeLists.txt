@@ -33,3 +33,12 @@ add_executable(BEE2963
 
 add_executable(BEE2633
         "Resolucoes C++/BEE 2633.cpp")
+
+add_executable(BEE3343
+        "Resolucoes C++/BEE 3343.cpp")
+
+add_executable(BEE1188
+        "Resolucoes C++/BEE 1188.cpp")
+
+add_executable(BEE1478
+        "Resolucoes C++/BEE 1478.cpp")
