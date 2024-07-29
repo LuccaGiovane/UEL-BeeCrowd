@@ -10,7 +10,7 @@ int main()
 
     cin >> anoes >> distancia;
 
-    anoes += 2;
+    anoes = anoes + 2;
     distancia /= (double)anoes;
 
     cout << fixed << setprecision(2);
